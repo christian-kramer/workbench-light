@@ -1,0 +1,8 @@
+c:\users\flyhi\source\repos\Light Service\Light Service\bin\Debug\Light Service.exe.config
+c:\users\flyhi\source\repos\Light Service\Light Service\bin\Debug\Light Service.exe
+c:\users\flyhi\source\repos\Light Service\Light Service\bin\Debug\Light Service.pdb
+c:\users\flyhi\source\repos\Light Service\Light Service\obj\Debug\Light_Service.ProjectInstaller.resources
+c:\users\flyhi\source\repos\Light Service\Light Service\obj\Debug\Light Service.csproj.GenerateResource.cache
+c:\users\flyhi\source\repos\Light Service\Light Service\obj\Debug\Light Service.csproj.CoreCompileInputs.cache
+c:\users\flyhi\source\repos\Light Service\Light Service\obj\Debug\Light Service.exe
+c:\users\flyhi\source\repos\Light Service\Light Service\obj\Debug\Light Service.pdb
